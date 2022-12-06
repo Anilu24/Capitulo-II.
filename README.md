@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title> Capitulo II Proceso y Análisis </title>
 </head>
 <body bgcolor="papayawhip">
 <center>
